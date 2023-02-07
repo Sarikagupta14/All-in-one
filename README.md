@@ -5,3 +5,4 @@ In this project I tried to include all the important topics like Parallax effect
 Each project has been provided with it's source code, website link and description.
 
 Hope you will find it useful.
+Link: https://sarika-all-projects.netlify.app/
